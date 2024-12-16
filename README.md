@@ -19,7 +19,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/amille90/osticket-ticket-cycle/)
 
 - <b>Active Directory</b>
-  - [Active Directory Infrastructure within Azure](https://github.com/amille90/configure-ad)
+  - [Active Directory Infrastructure within Azure](https://github.com/amille90/active-directory-infrastructure)
   - [Deploying Active Directory](https://github.com/amille90/azure-network-protocols)
   - [Creating Users with Powershell](https://github.com/amille90/azure-network-protocols)
   - [Managing Accounts with Group Policy](https://github.com/amille90/azure-network-protocols)
