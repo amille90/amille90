@@ -3,7 +3,7 @@
 <h2>👩🏾‍💻Information Technology Projects:</h2>
 
 - <b>Resource Group and Virtual Machine Configuration in Azure</b>
-  - [Windows 10 ](https://github.com/amille90/Resource-Group-VM-Creation-in-Azure)
+  - [Windows 10 ](https://github.com/amille90/windows10)
   - [Linux Ubuntu](https://github.com/amille90/Resource-Group-VM-Creation-in-Azure)
 
 - <b>Compute and Networking (Ports and Protocols)</b>
