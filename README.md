@@ -2,7 +2,7 @@
 
 <h2>👩🏾‍💻Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Resource Group and Virtual Machine Creation in Azure</b>
 
 
 
