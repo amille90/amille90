@@ -17,9 +17,13 @@
   - [osTicket: Prerequisites and Installation](https://github.com/amille90/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/amille90/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/amille90/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/amille90/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/amille90/azure-network-protocols)
+
+- <b>Active Directory</b>
+  - [Active Directory Infrastructure within Azure](https://github.com/amille90/configure-ad)
+  - [Deploying Active Directory](https://github.com/amille90/azure-network-protocols)
+  - [Creating Users with Powershell](https://github.com/amille90/azure-network-protocols)
+  - [Managing Accounts with Group Policy](https://github.com/amille90/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 
