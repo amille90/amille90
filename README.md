@@ -8,7 +8,7 @@
 
 - <b>Compute and Networking (Ports and Protocols)</b>
   - [Observing ICMP Traffic](https://github.com/amille90/observing-ICMP-Traffic)
-  - [Configuring a Firewall (Network Security Group)](https://github.com/amille90/Compute-and-Networking)
+  - [Configuring a Firewall (Network Security Group)](https://github.com/amille90/Config.-Firewall-Network-Security-Group)
 
 
 
