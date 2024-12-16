@@ -4,7 +4,7 @@
 
 - <b>Resource Group and Virtual Machine Configuration in Azure</b>
   - [Windows 10 ](https://github.com/amille90/windows10)
-  - [Linux Ubuntu](https://github.com/amille90/Resource-Group-VM-Creation-in-Azure)
+  - [Linux Ubuntu](https://github.com/amille90/linux-ubuntu)
 
 - <b>Compute and Networking (Ports and Protocols)</b>
   - [Observing ICMP Traffic](https://github.com/amille90/Compute-and-Networking)
