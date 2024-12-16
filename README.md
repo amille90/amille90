@@ -15,7 +15,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/amille90/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/amille90/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/amille90/osticket-post-installation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/amille90/ticket-lifecycle)
 
 - <b>Active Directory</b>
