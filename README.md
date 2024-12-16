@@ -6,8 +6,9 @@
   - [Windows 10 ](https://github.com/amille90/Resource-Group-VM-Creation-in-Azure)
   - [Linux Ubuntu](https://github.com/amille90/Resource-Group-VM-Creation-in-Azure)
 
-
-
+- <b>Compute and Networking (Ports and Protocols)</b>
+  - [Observing ICMP Traffic](https://github.com/amille90/osticket-prereqs)
+  - [Configuring a Firewall (Network Security Group](https://github.com/amille90/post-install-config)
 
 
 
