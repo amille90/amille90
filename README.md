@@ -25,7 +25,7 @@
   - [Managing Accounts with Group Policy](https://github.com/amille90/manag.-accounts-with-group-policy)
 
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳🏾Connect with me:</h2>
 
 
 [<img align="left" alt="andrea-miller-entra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
