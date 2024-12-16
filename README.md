@@ -22,7 +22,7 @@
   - [Active Directory Infrastructure within Azure](https://github.com/amille90/active-directory-infrastructure)
   - [Deploying Active Directory](https://github.com/amille90/deploying-active-directory)
   - [Creating Users with Powershell](https://github.com/amille90/creating-users-in-powershell)
-  - [Managing Accounts with Group Policy](https://github.com/amille90/azure-network-protocols)
+  - [Managing Accounts with Group Policy](https://github.com/amille90/manag.-accounts-with-group-policy)
 
 
 <h2>🤳Connect with me:</h2>
