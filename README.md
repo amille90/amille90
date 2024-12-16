@@ -2,9 +2,9 @@
 
 <h2>👩🏾‍💻Information Technology Projects:</h2>
 
-- <b>Resource Group and Virtual Machine Creation in Azure</b>
-  - [Windows 10 VM Configuration](https://github.com/amille90/Resource-Group-VM-Creation-in-Azure)
-  - [Linux Ubuntu VM Configuration](https://github.com/amille90/Resource-Group-VM-Creation-in-Azure)
+- <b>Resource Group and Virtual Machine Configuration in Azure</b>
+  - [Windows 10 ](https://github.com/amille90/Resource-Group-VM-Creation-in-Azure)
+  - [Linux Ubuntu](https://github.com/amille90/Resource-Group-VM-Creation-in-Azure)
 
 
 
