@@ -3,8 +3,8 @@
 <h2>👩🏾‍💻Information Technology Projects:</h2>
 
 - <b>Resource Group and Virtual Machine Creation in Azure</b>
-  - [Windows 10 VM Configuration](https://github.com/amille90/osticket-prereqs)
-  - [Linux Ubuntu VM Configuration](https://github.com/amille90/post-install-config)
+  - [Windows 10 VM Configuration](https://github.com/amille90/Resource-Group-VM-Creation-in-Azure)
+  - [Linux Ubuntu VM Configuration](https://github.com/amille90/Resource-Group-VM-Creation-in-Azure)
 
 
 
