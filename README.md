@@ -20,7 +20,7 @@
 
 - <b>Active Directory</b>
   - [Active Directory Infrastructure within Azure](https://github.com/amille90/active-directory-infrastructure)
-  - [Deploying Active Directory](https://github.com/amille90/azure-network-protocols)
+  - [Deploying Active Directory](https://github.com/amille90/deploying-active-directory)
   - [Creating Users with Powershell](https://github.com/amille90/azure-network-protocols)
   - [Managing Accounts with Group Policy](https://github.com/amille90/azure-network-protocols)
 
