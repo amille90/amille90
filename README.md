@@ -16,7 +16,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/amille90/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/amille90/osticket-post-installation)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/amille90/osticket-ticket-cycle/)
+  - [osTicket: Ticket-Cycle Examples](https://github.com/amille90/osticket-ticket-cycle/)
 
 - <b>Active Directory</b>
   - [Active Directory Infrastructure within Azure](https://github.com/amille90/active-directory-infrastructure)
