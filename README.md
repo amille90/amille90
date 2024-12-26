@@ -18,12 +18,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/amille90/osticket-post-installation)
   - [osTicket: Ticket-Cycle Examples](https://github.com/amille90/osticket-ticket-cycle/)
 
-- <b>Active Directory</b>
-  - [Domain Controller and Client-1 Virtual Machine Configuration in Azure](https://github.com/amille90/active-directory-infrastructure)
-  - [Deploying Active Directory](https://github.com/amille90/deploying-active-directory)
-  - [Creating Users with Powershell](https://github.com/amille90/creating-users-in-powershell)
-  - [Managing Accounts with Group Policy](https://github.com/amille90/manag.-accounts-with-group-policy)
-
 
 <h2>🤳🏾Connect with me:</h2>
 
