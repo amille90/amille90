@@ -6,7 +6,7 @@
   - [Windows 10 ](https://github.com/amille90/windows10)
   - [Linux Ubuntu](https://github.com/amille90/linux-ubuntu)
 
-- <b>Compute and Networking (Ports and Protocols)</b>
+- <b>Compute and Networking</b>
   - [Observing ICMP Traffic](https://github.com/amille90/observing-ICMP-Traffic)
   - [Configuring a Firewall (Network Security Group)](https://github.com/amille90/Config.-Firewall-Network-Security-Group)
 
